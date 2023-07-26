@@ -14,11 +14,11 @@ install module
 
 """configurations"""
 
-bearer = "AAAAAAAAAAAAAAAAAAAAAEazegEAAAAAOthpVGvXqeuGe9khtbIIYx5aPks%3D54hd47dSJy2JnAEj0YC2lqLqo8pyJOZOILy3sXX8aTEiO28p3x"
-consumer_key = "oqyMgh0OWJs3t9RhGRTCasZUo"
-consumer_secret = "LG1A6R61VSbzlyRvY3HKAT9BQepDdSjIlXOkdh5kQ0w22ZOL1Q"
-access_token = "2510006335-jqjq2kQVgKQa57D8sI6nWK8Lh5QtuoB1sMYoxUw"
-access_token_secret = "QsfzMDsH0Ug5qa0NmXtA31RodsPXG62LnfTjP4Dt5Drrq"
+bearer = "hidden"
+consumer_key = "hidden"
+consumer_secret = "hidden"
+access_token = "hidden"
+access_token_secret = "hidden"
 
 """inport modules"""
 
